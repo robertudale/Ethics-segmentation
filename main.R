@@ -44,7 +44,7 @@ SOURCE_ROOT <- PROJECT_DIR
 scripts <- c(
   file.path(PROJECT_DIR, 'Analyses', 'data preparation', 'scripts', 'prepare_analysis_data.R'),
   file.path(PROJECT_DIR, 'Analyses', 'raw data plots', 'scripts', 'raw_data_stacked_bars.R'),
-    file.path(PROJECT_DIR, 'Analyses', 'raw data plots', 'scripts', 'raw_data_stacked_bars_by_group.R'),
+  file.path(PROJECT_DIR, 'Analyses', 'raw data plots', 'scripts', 'raw_data_stacked_bars_by_group.R'),
   file.path(PROJECT_DIR, 'Analyses', 'general issue concern LCA', 'scripts', 'general_issue_concern_lca.R'),
   file.path(PROJECT_DIR, 'Analyses', 'Animal actions regression', 'scripts', 'animal_actions_models.R'),
   file.path(PROJECT_DIR, 'Analyses', 'Animal issue concern EFA', 'scripts', 'animal_issue_concern_efa.R'),
